@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./epigrammataetpri00galluoft_0009.png"; bbox 0 0 2201 3643; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 532 1466 1418 1516">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 532 1466 1418 1516">
+     <span class='ocr_line' id='line_1_1' title="bbox 532 1466 1418 1516; baseline -0.008 1"><span class='ocrx_word' id='word_1_1' title='bbox 532 1474 571 1516; x_wconf 76' lang='lat' dir='ltr'><strong>A</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 613 1473 852 1516; x_wconf 87' lang='lat' dir='ltr'>Monsieur</span> <span class='ocrx_word' id='word_1_3' title='bbox 896 1470 1134 1514; x_wconf 61' lang='lat' dir='ltr'>lezmizmc</span> <span class='ocrx_word' id='word_1_4' title='bbox 1178 1466 1418 1512; x_wconf 85' lang='lat' dir='ltr'>PLESSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 949 1628 1822 1687">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 949 1628 1822 1687">
+     <span class='ocr_line' id='line_1_2' title="bbox 949 1628 1822 1687; baseline -0.009 -11"><span class='ocrx_word' id='word_1_5' title='bbox 949 1635 1186 1687; x_wconf 84' lang='lat' dir='ltr'>Hommage</span> <span class='ocrx_word' id='word_1_6' title='bbox 1216 1633 1266 1674; x_wconf 89' lang='lat' dir='ltr'>de</span> <span class='ocrx_word' id='word_1_7' title='bbox 1296 1638 1596 1686; x_wconf 75' lang='lat' dir='ltr'><strong>respectueuse</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1626 1628 1822 1670; x_wconf 84' lang='lat' dir='ltr'>affection</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1610 1800 1742 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1610 1800 1742 1842">
+     <span class='ocr_line' id='line_1_3' title="bbox 1610 1800 1742 1842; baseline -0.008 -1"><span class='ocrx_word' id='word_1_9' title='bbox 1610 1801 1660 1841; x_wconf 83' lang='lat' dir='ltr'>E.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1693 1800 1742 1842; x_wconf 91' lang='lat' dir='ltr'>G.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
